@@ -1,0 +1,15 @@
+# Fictional authentication log. All addresses are documentation-only example IPs.
+2026-09-01T09:00:00Z username=alice ip=192.0.2.10 status=success
+2026-09-01T09:03:00Z username=admin ip=192.0.2.15 status=failure
+2026-09-01T09:04:00Z username=admin ip=192.0.2.15 status=failure
+2026-09-01T09:05:00Z username=admin ip=192.0.2.15 status=failure
+2026-09-01T09:06:00Z username=admin ip=192.0.2.15 status=failure
+2026-09-01T09:07:00Z username=admin ip=192.0.2.15 status=success
+2026-09-01T09:08:00Z username=bob ip=198.51.100.22 status=failure
+2026-09-01T09:09:00Z username=bob ip=198.51.100.22 status=failure
+2026-09-01T09:10:00Z username=carol ip=203.0.113.8 status=success
+2026-09-01T09:11:00Z username=service-account ip=192.0.2.40 status=failure
+2026-09-01T09:12:00Z username=service-account ip=192.0.2.40 status=failure
+2026-09-01T09:13:00Z username=service-account ip=192.0.2.40 status=failure
+2026-09-01T09:14:00Z username=service-account ip=192.0.2.40 status=failure
+2026-09-01T09:20:00Z username=dana ip=198.51.100.22 status=success

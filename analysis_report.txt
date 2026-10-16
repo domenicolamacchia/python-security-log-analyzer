@@ -1,0 +1,16 @@
+PYTHON SECURITY LOG ANALYZER
+================================
+
+Events analysed: 14
+Successful logins: 4
+Failed logins: 10
+Malformed lines skipped: 0
+Alerts generated: 1
+
+FINDINGS
+--------------------------------
+[MEDIUM] success_after_repeated_failures | 192.0.2.15 | admin
+  Time: 2026-09-01T09:07:00+00:00
+  Details: Successful login followed 4 failures for the same username and IP
+
+Note: alerts are investigation leads, not proof of compromise.

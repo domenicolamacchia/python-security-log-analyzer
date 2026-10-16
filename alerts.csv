@@ -1,0 +1,2 @@
+timestamp,alert_type,severity,ip,username,details
+2026-09-01T09:07:00+00:00,success_after_repeated_failures,MEDIUM,192.0.2.15,admin,Successful login followed 4 failures for the same username and IP
